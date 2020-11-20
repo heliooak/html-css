@@ -3,4 +3,4 @@
 
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
- <a href="https://heliooak.github.io/html-css/exercicios/desafio010/android.html#">Executar o exercício do desafio 10.</a>
+ <a href="https://heliooak.github.io/html-css/exercicios/ex001/index.html">Executar o exercício do desafio 10.</a>
